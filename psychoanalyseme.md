@@ -1,43 +1,43 @@
-# Self-Diagnosis Guide for Potential Personality Disorders (ICD-10)
+# Self-diagnosis guide for potential personality disorders (ICD-10)
 
-## Table of Contents
+## Table of contents
 
-- [Self-Diagnosis Guide for Potential Personality Disorders (ICD-10)](#self-diagnosis-guide-for-potential-personality-disorders-icd-10)
-  - [Table of Contents](#table-of-contents)
+- [Self-diagnosis guide for potential personality disorders (ICD-10)](#self-diagnosis-guide-for-potential-personality-disorders-icd-10)
+  - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
-  - [General Instructions](#general-instructions)
-  - [Personality Disorders and Symptoms](#personality-disorders-and-symptoms)
-    - [Paranoid Personality Disorder](#paranoid-personality-disorder)
-    - [Schizoid Personality Disorder](#schizoid-personality-disorder)
-    - [Dissocial Personality Disorder](#dissocial-personality-disorder)
-    - [Emotionally Unstable Personality Disorder](#emotionally-unstable-personality-disorder)
-      - [Impulsive Type](#impulsive-type)
-      - [Borderline Type](#borderline-type)
-    - [Anankastic (Obsessive-Compulsive) Personality Disorder](#anankastic-obsessive-compulsive-personality-disorder)
-    - [Anxious (Avoidant) Personality Disorder](#anxious-avoidant-personality-disorder)
-    - [Dependent Personality Disorder](#dependent-personality-disorder)
-    - [The Importance of Support Networks](#the-importance-of-support-networks)
-  - [When to Seek Professional Help](#when-to-seek-professional-help)
-  - [Where to Seek Professional Help in Poland](#where-to-seek-professional-help-in-poland)
-    - [Public Healthcare (NFZ)](#public-healthcare-nfz)
-    - [Private Healthcare](#private-healthcare)
-    - [Community Support](#community-support)
+  - [General instructions](#general-instructions)
+  - [Personality disorders and symptoms](#personality-disorders-and-symptoms)
+    - [Paranoid personality disorder](#paranoid-personality-disorder)
+    - [Schizoid personality disorder](#schizoid-personality-disorder)
+    - [Dissocial personality disorder](#dissocial-personality-disorder)
+    - [Emotionally unstable personality disorder](#emotionally-unstable-personality-disorder)
+      - [Impulsive type](#impulsive-type)
+      - [Borderline type](#borderline-type)
+    - [Anankastic (obsessive-compulsive) personality disorder](#anankastic-obsessive-compulsive-personality-disorder)
+    - [Anxious (avoidant) personality disorder](#anxious-avoidant-personality-disorder)
+    - [Dependent personality disorder](#dependent-personality-disorder)
+    - [The importance of support networks](#the-importance-of-support-networks)
+  - [When to seek professional help](#when-to-seek-professional-help)
+  - [Where to seek professional help in Poland](#where-to-seek-professional-help-in-poland)
+    - [Public healthcare (NFZ)](#public-healthcare-nfz)
+    - [Private healthcare](#private-healthcare)
+    - [Community support](#community-support)
   - [Conclusion](#conclusion)
   
 ## Introduction
 
 This guide is designed to help you identify potential personality disorders based on the International Classification of Diseases, 10th Revision (ICD-10). It is important to note that self-diagnosis is not a substitute for professional evaluation. If you suspect you have a personality disorder, please seek advice from a qualified mental health professional.
 
-## General Instructions
+## General instructions
 
 1. Read through the list of symptoms for each personality disorder.
 2. Reflect on your own experiences and behaviors.
 3. Mark the symptoms that you believe apply to you.
 4. If you identify with multiple symptoms in a specific category, consider seeking professional help.
 
-## Personality Disorders and Symptoms
+## Personality disorders and symptoms
 
-### Paranoid Personality Disorder
+### Paranoid personality disorder
 
 - Excessive sensitivity to setbacks and rebuffs
 - Tendency to bear grudges persistently
@@ -50,7 +50,7 @@ This guide is designed to help you identify potential personality disorders base
 ICD-10 Code: F60.0
 Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/F60.0)
 
-### Schizoid Personality Disorder
+### Schizoid personality disorder
 
 - Very few, if any, activities provide pleasure
 - Emotional coldness, detachment, or flattened affectivity
@@ -64,7 +64,7 @@ Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/
 ICD-10 Code: F60.1
 Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/F60.1)
 
-### Dissocial Personality Disorder
+### Dissocial personality disorder
 
 - Callous unconcern for the feelings of others
 - Gross and persistent attitude of irresponsibility and disregard for social norms, rules, and obligations
@@ -78,9 +78,9 @@ Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/
 ICD-10 Code: F60.2
 Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/F60.2)
 
-### Emotionally Unstable Personality Disorder
+### Emotionally unstable personality disorder
 
-#### Impulsive Type
+#### Impulsive type
 
 - Marked tendency to act unexpectedly and without consideration of the consequences
 - Marked tendency to quarrelsome behavior and conflicts with others, especially when impulsive acts are thwarted or criticized
@@ -92,7 +92,7 @@ Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/
 ICD-10 Code: F60.30
 Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/F60.30)
 
-#### Borderline Type
+#### Borderline type
 
 - Disturbances in and uncertainty about self-image, aims, and internal preferences
 - Liability to become involved in intense and unstable relationships, often leading to emotional crises
@@ -105,7 +105,7 @@ Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/
 ICD-10 Code: F60.31
 Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/F60.31)
 
-### Anankastic (Obsessive-Compulsive) Personality Disorder
+### Anankastic (obsessive-compulsive) personality disorder
 
 - Feelings of excessive doubt and caution
 - Preoccupation with details, rules, lists, order, organization, or schedule
@@ -118,7 +118,7 @@ Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/
 ICD-10 Code: F60.5
 Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/F60.5)
 
-### Anxious (Avoidant) Personality Disorder
+### Anxious (avoidant) personality disorder
 
 - Persistent and pervasive feelings of tension and apprehension
 - Belief that one is socially inept, personally unappealing, or inferior to others
@@ -130,7 +130,7 @@ Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/
 ICD-10 Code: F60.6
 Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/F60.6)
 
-### Dependent Personality Disorder
+### Dependent personality disorder
 
 - Encouraging or allowing others to make most of one's important life decisions
 - Subordination of one's own needs to those of others on whom one is dependent, and undue compliance with their wishes
@@ -143,7 +143,7 @@ Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/
 ICD-10 Code: F60.7
 Reference Link: [WHO ICD-10 Version:2019](https://icd.who.int/browse10/2019/en#/F60.7)
 
-### The Importance of Support Networks
+### The importance of support networks
 
 Having a strong support network of family and friends is crucial when dealing with mental health challenges. These trusted individuals can:
 
@@ -158,22 +158,22 @@ Having a strong support network of family and friends is crucial when dealing wi
 
 Remember that sharing your mental health journey with others is a personal choice. Choose people you trust and who demonstrate understanding and empathy. Sometimes, family members and friends may also benefit from educational resources about personality disorders to better understand and support your journey.
 
-## When to Seek Professional Help
+## When to seek professional help
 
 If you identify with multiple symptoms in any of the categories above, it is important to seek professional help. A mental health professional can provide a thorough evaluation and develop a treatment plan tailored to your needs.
 
-## Where to Seek Professional Help in Poland
+## Where to seek professional help in Poland
 
 If you need professional psychiatric help in Poland, you have several options:
 
-### Public Healthcare (NFZ)
+### Public healthcare (NFZ)
 
 - Visit your primary care physician (POZ) for an initial consultation and referral to a psychiatrist
 - Contact a public mental health clinic (Poradnia Zdrowia Psychicznego) directly - no referral needed
 - In crisis situations, visit the nearest psychiatric emergency room (Izba Przyjęć Psychiatryczna)
 - Call the 24/7 suicide prevention hotline: 800 70 2222
 
-### Private Healthcare
+### Private healthcare
 
 - Schedule an appointment with a private psychiatrist through medical facilities websites
 - Use medical appointment platforms like:
@@ -182,7 +182,7 @@ If you need professional psychiatric help in Poland, you have several options:
   - LUX MED
   - PZU Zdrowie
 
-### Community Support
+### Community support
 
 - Mental Health Centers (Centra Zdrowia Psychicznego) - provide comprehensive care in your local area
 - University counseling centers for students
@@ -193,7 +193,7 @@ If you need professional psychiatric help in Poland, you have several options:
 
 **Important:** Remember that all psychiatrists in Poland must be registered with the Polish Chamber of Physicians (Naczelna Izba Lekarska). You can verify a doctor's credentials on the [NIL website](https://nil.org.pl).
 
-**Emergency Contacts:**
+**Emergency contacts:**
 
 - Emergency number: 112
 - National Emergency Service: 999
